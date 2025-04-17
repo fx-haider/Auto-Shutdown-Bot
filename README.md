@@ -20,15 +20,10 @@ Clone or download this repository.
 
 Install the required dependencies using:
 
-bash
-Copy
-Edit
 pip install pyttsx3
+
 Run the script:
 
-bash
-Copy
-Edit
 python shutdown_tool.py
 Enter the desired time in minutes before the automatic shutdown starts.
 
